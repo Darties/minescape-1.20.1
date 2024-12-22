@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "minescape:bronze_helmet",
+    "minescape:bronze_chestplate",
+    "minescape:bronze_leggings",
+    "minescape:bronze_boots",
+    "minescape:black_helmet",
+    "minescape:black_chestplate",
+    "minescape:black_leggings",
+    "minescape:black_boots",
+    "minescape:mithril_helmet",
+    "minescape:mithril_chestplate",
+    "minescape:mithril_leggings",
+    "minescape:mithril_boots",
+    "minescape:adamantite_helmet",
+    "minescape:adamantite_chestplate",
+    "minescape:adamantite_leggings",
+    "minescape:adamantite_boots",
+    "minescape:runite_helmet",
+    "minescape:runite_chestplate",
+    "minescape:runite_leggings",
+    "minescape:runite_boots",
+    "minescape:dragon_helmet",
+    "minescape:dragon_chestplate",
+    "minescape:dragon_leggings",
+    "minescape:dragon_boots"
+  ]
+}

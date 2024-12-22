@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.3,
+  "group": "bronze_ingot",
+  "ingredient": {
+    "item": "minescape:bronze_alloy"
+  },
+  "result": "minescape:bronze_alloy"
+}

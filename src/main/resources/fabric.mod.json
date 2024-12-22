@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "minescape",
+	"version": "${version}",
+	"name": "MineScape",
+	"description": "MineScape is a mod which adds a variety of new ores, weapons, and mobs from the MMORPG Runescape. It is intended to make the progression of Minecraft slower, more varied, and interesting. This mod is best used alongside LevelZ as it emulates the Runescape leveling system.",
+	"authors": [
+		"Darties"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/minescape/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.darties.minescape.MineScape"
+		],
+		"client": [
+			"net.darties.minescape.MineScapeClient"
+		],
+		"fabric-datagen": [
+			"net.darties.minescape.MineScapeDataGenerator"
+		]
+	},
+	"mixins": [
+		"minescape.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

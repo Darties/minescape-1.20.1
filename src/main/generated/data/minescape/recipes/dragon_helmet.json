@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": {
+      "item": "minescape:dragon_ingot"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "X X",
+    "   "
+  ],
+  "result": {
+    "item": "minescape:dragon_helmet"
+  },
+  "show_notification": true
+}

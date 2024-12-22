@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "minescape:tin_ore",
+    "minescape:mithril_ore",
+    "minescape:deepslate_mithril_ore",
+    "minescape:raw_tin_block",
+    "minescape:raw_mithril_block",
+    "minescape:tin_block",
+    "minescape:bronze_block",
+    "minescape:black_block",
+    "minescape:mithril_block"
+  ]
+}

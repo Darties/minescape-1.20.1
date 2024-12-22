@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minescape:black_ingot"
+    },
+    "X": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " # ",
+    " X ",
+    " X "
+  ],
+  "result": {
+    "item": "minescape:black_shovel"
+  },
+  "show_notification": true
+}

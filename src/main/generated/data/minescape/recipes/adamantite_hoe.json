@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minescape:adamantite_ingot"
+    },
+    "X": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "## ",
+    " X ",
+    " X "
+  ],
+  "result": {
+    "item": "minescape:adamantite_hoe"
+  },
+  "show_notification": true
+}

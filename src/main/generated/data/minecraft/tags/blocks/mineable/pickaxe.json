@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "minescape:tin_ore",
+    "minescape:mithril_ore",
+    "minescape:deepslate_mithril_ore",
+    "minescape:adamantite_ore",
+    "minescape:deepslate_adamantite_ore",
+    "minescape:nether_adamantite_ore",
+    "minescape:runite_ore",
+    "minescape:deepslate_runite_ore",
+    "minescape:nether_runite_ore",
+    "minescape:raw_tin_block",
+    "minescape:raw_mithril_block",
+    "minescape:raw_adamantite_block",
+    "minescape:raw_runite_block",
+    "minescape:tin_block",
+    "minescape:bronze_block",
+    "minescape:black_block",
+    "minescape:mithril_block",
+    "minescape:adamantite_block",
+    "minescape:runite_block",
+    "minescape:dragon_block"
+  ]
+}

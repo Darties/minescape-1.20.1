@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.3,
+  "group": "runite_ingot",
+  "ingredient": {
+    "item": "minescape:raw_adamantite"
+  },
+  "result": "minescape:tin_ingot"
+}

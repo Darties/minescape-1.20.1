@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minescape:runite_ingot"
+    },
+    "X": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "## ",
+    "#X ",
+    " X "
+  ],
+  "result": {
+    "item": "minescape:runite_axe"
+  },
+  "show_notification": true
+}

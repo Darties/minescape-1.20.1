@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "minescape:adamantite_ore",
+    "minescape:deepslate_adamantite_ore",
+    "minescape:nether_adamantite_ore",
+    "minescape:runite_ore",
+    "minescape:deepslate_runite_ore",
+    "minescape:nether_runite_ore",
+    "minescape:raw_adamantite_block",
+    "minescape:raw_runite_block",
+    "minescape:adamantite_block",
+    "minescape:runite_block"
+  ]
+}

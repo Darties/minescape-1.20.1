@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 350,
+  "experience": 4.0,
+  "group": "dragon_ingot",
+  "ingredient": {
+    "item": "minescape:dragon_metal_lump"
+  },
+  "result": "minescape:dragon_metal_lump"
+}

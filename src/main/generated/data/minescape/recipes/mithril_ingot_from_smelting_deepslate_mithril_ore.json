@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.6,
+  "group": "mithril_ingot",
+  "ingredient": {
+    "item": "minescape:deepslate_mithril_ore"
+  },
+  "result": "minescape:mithril_ingot"
+}

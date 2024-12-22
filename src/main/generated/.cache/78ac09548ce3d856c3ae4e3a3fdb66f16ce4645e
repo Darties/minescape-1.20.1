@@ -1,0 +1,5 @@
+// 1.20.1	2024-12-16T23:19:58.1613767	MineScape/Tags for minecraft:block
+d9e55d61eab08f745b8978ba347bd3bb79f864f2 data\minecraft\tags\blocks\mineable\pickaxe.json
+ba92eddee344d3ca497270ce02a2e86e7732c3dc data\minecraft\tags\blocks\needs_iron_tool.json
+c1b93ca5ee7e62eb0d88023ff1ca405500a7552d data\minecraft\tags\blocks\needs_diamond_tool.json
+af8a7071f2aada31436ea7fe43360c4767efcec4 data\minecraft\tags\blocks\needs_stone_tool.json
