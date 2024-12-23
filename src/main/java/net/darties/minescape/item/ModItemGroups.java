@@ -83,6 +83,16 @@ public class ModItemGroups {
                         entries.add(ModItems.DRAGON_SHOVEL);
                         entries.add(ModItems.DRAGON_HOE);
 
+                        entries.add(ModBowItems.LONGBOW);
+                        entries.add(ModBowItems.JUNGLE_BOW);
+                        entries.add(ModBowItems.JUNGLE_LONGBOW);
+                        entries.add(ModBowItems.MANGROVE_BOW);
+                        entries.add(ModBowItems.MANGROVE_LONGBOW);
+                        entries.add(ModBowItems.CHERRY_BOW);
+                        entries.add(ModBowItems.CHERRY_LONGBOW);
+                        entries.add(ModBowItems.WARPED_BOW);
+                        entries.add(ModBowItems.WARPED_LONGBOW);
+
                         entries.add(ModItems.BRONZE_HELMET);
                         entries.add(ModItems.BRONZE_CHESTPLATE);
                         entries.add(ModItems.BRONZE_LEGGINGS);

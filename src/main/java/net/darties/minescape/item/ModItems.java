@@ -89,6 +89,8 @@ public class ModItems {
     public static final Item DRAGON_HOE = registerItem("dragon_hoe", new HoeItem(ModToolMaterial.DRAGON,
             0, -2.9F, new FabricItemSettings()));
 
+
+    // Armor
     public static final Item BRONZE_HELMET = registerItem("bronze_helmet",
             new ArmorItem(ModArmorMaterials.BRONZE, ArmorItem.Type.HELMET, new FabricItemSettings()));
     public static final Item BRONZE_CHESTPLATE = registerItem("bronze_chestplate",

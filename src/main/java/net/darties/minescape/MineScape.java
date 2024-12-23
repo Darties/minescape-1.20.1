@@ -1,6 +1,7 @@
 package net.darties.minescape;
 
 import net.darties.minescape.block.ModBlocks;
+import net.darties.minescape.item.ModBowItems;
 import net.darties.minescape.item.ModItemGroups;
 import net.darties.minescape.item.ModItems;
 import net.darties.minescape.util.ModCustomTrades;
@@ -20,6 +21,8 @@ public class MineScape implements ModInitializer {
 
 		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
+		ModBowItems.registerModItems();
+		ModBowItems.configureBow();
 		ModBlocks.registerModBlocks();
 		ModLootTableModifiers.modifyLootTables();
 		ModCustomTrades.registerCustomTrades();
